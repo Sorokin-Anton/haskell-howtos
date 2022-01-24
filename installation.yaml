@@ -9,3 +9,9 @@ template:
   sidebar:
     collapsed: false
   urlStrategy: pretty
+
+pandoc:
+  rewriteClass:
+    header: font-bold
+    normal: font-normal
+    red: text-red-700
